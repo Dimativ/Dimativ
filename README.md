@@ -5,7 +5,8 @@
 I'm a highly motivated Front-End Developer, I have a practice how to create user-friendly and visually appealing web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My goal is to develop world-changing products that make a difference and build my version of the digital world gradually. I am always eager to learn and master new technologies, and I excel both independently and as a part of a team.
 
 ### 🌐 Socials:   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimativ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimativ)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/litva_3) 
 ---
 
 ### 🧰 Languages and Tools
@@ -27,6 +28,11 @@ I'm a highly motivated Front-End Developer, I have a practice how to create user
 <img align="left" alt="Yarn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
 <img align="left" alt="Webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" />
 <br />
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimativ&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 <!--
 **Dimativ/Dimativ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
