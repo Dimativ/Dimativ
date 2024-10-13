@@ -39,19 +39,21 @@ I'm a highly motivated Front-End Developer, I have a practice how to create user
 #
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I was born in small village Lvove, Ukraine. When I was 9 mounth, my family migrate to Dnipro, Ukraine. Later I went to primary school, and started studying at math class.
+   I was born in the small village of Lvove, Ukraine. Later, my family and I moved to Dnipro, Ukraine.
 
-The next step in my life was studying at gymnasium, in which, for my academic performance, I was awarded a diploma for excelling in computer science.
+The next step in my life was studying at a gymnasium. When I finished it, I got my diploma with excellent grades in computer science.
 
-Having passed the exams, I obtained a place at the Dnipro technical university. At university, I am studying Computer engineering. I consider myself very responsible and curiousness towards the knowledge that is displayed in my grades.
+In May 2022, I made a decision to try my skills in a startup company which gave me the impetus for my professional growth. 
 
-In May 2022, I made a desicion try my skills at work. This one, albeit small, but the work experience gave me an impetus to development and I understand what I want to do in the near future. During this period, experience was gained with: React, Rest API, Figma and the most popular libraries for React.
+After that, I started studying at Dnipro University of Technology where I obtained an honours degree in computer engineering in 2024.
 
-Now I am learning React and developing my own pet projects. 
+With a unique perspective shaped by overcoming significant personal challenges, I bring resilience and adaptability to every project. My background includes working on components that manage critical operations. I am committed to continuous learning and advancing my skills, driven by my love for technology and desire to contribute meaningfully to every team I join.
 
-I have also always been into sports. I played football semi-professionally. Now I do physical exercise at the gym. All these activities have always helped me to stay mentally healthy and insatiable for my work.
+Also, I have always been into sport. Doing exercise has always helped me to stay mentally healthy and insatiable for my work.
 
-In conclusion, I want to say about my life principle - "Do with passion !"
+My life motto is «Do everything with passion!»
+
+Contact me to discuss how I can bring value to your project!
 <!--
 **Dimativ/Dimativ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
