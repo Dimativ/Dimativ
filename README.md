@@ -1,6 +1,6 @@
 # 🦔 Dimativ
 
-**`Digital Craftsman (Developer/Creator)`** ![Alt Text]([https://giphy.com/embed/UQ1EI1ML2ABQdbebup](https://giphy.com/embed/UQ1EI1ML2ABQdbebup))
+**`Digital Craftsman (Developer/Creator)`** ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RzbjN5M2QxaDM1cm5meXNyMXEwa3JiNHhna2xsMGl4enp4NzJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif)
 
 I'm a highly motivated Front-End Developer, I have a practice how to create user-friendly and visually appealing web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My goal is to develop world-changing products that make a difference and build my version of the digital world gradually. I am always eager to learn and master new technologies, and I excel both independently and as a part of a team.
 
